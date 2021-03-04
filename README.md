@@ -8,4 +8,4 @@
 #### Recently
 
 - :wrench: Mobile (Android), Server-side
-- :pencil2: Kotlin, Scala, Java and Rust
+- :pencil2: Kotlin, Scala, Java
